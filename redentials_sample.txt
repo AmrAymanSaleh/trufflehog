@@ -1,0 +1,35 @@
+# AWS Credentials
+aws_access_key_id = AKIAJ7UIE7XPLG9M2C75
+aws_secret_access_key = h1KsM9W8E+zP7kO8L3qRkMv97TbgLxXa2hY3N6pW
+
+# API Keys
+google_maps_api_key = AIzaSyBm2XG4L7yRo1A4Pz1kT3DbcR0kH4QW5Rm
+twilio_account_sid = ACb1e3d5f7b9c2a4d5e6f7g8h9i0j1k2l3m4n5o6p
+twilio_auth_token = 1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t
+
+# Database Credentials
+db_username = user12345
+db_password = P@ssw0rd!23
+db_host = db-production-01.cloudhost.io
+db_name = prod_db_2025
+
+# JWT Secrets
+jwt_secret = U8m3Y5P2dN0r3K4T6L9V7X0Q1W2C8b3X1zY4kN6rM
+jwt_algorithm = HS512
+
+# OAuth Tokens
+github_oauth_token = ghp_Kl2M7pW9R1X4z3Y6bN0T8q3V5W1C8K7L9m2rN1W
+slack_oauth_token = xoxb-285749238475-9C8k1R5M3X2L7zP0N5q8b7T9V
+
+# Encryption Keys
+aes_encryption_key = 8b9T0M7L6r3C2X1Y5W4N8K7P1q9V0T2W1m3L4Y8bN
+rsa_private_key = -----BEGIN PRIVATE KEY-----
+MIIBOwIBAAJBAJ7L6m9T2X8P1W0b5Y3C4N7K5L8V9M1qT3X6P2L9Y0W8N3rC1m
+-----END PRIVATE KEY-----
+rsa_public_key = -----BEGIN PUBLIC KEY-----
+MIGJAoGBAJ6P3L8X9T2C4b7N1m0Y5K2q9V3W7L9M1r8T0N4C6P9V2X1Y8b7m
+-----END PUBLIC KEY-----
+
+# URLs
+api_base_url = https://api.server-93841.cloud.io
+callback_url = https://app.cloud-hosted-23847.io/oauth/callback
